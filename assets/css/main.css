@@ -304,6 +304,9 @@ input, select, textarea {
 		list-style-type: none;
 	}
 
+	.NoPoint {
+		list-style-type: none;
+	}
 /* Form */
 
 	form {
